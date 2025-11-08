@@ -403,50 +403,60 @@ Mengelola keseluruhan proyek, timeline, dan koordinasi antar tim. Mereka memasti
 
 6. MOCK UP
 
-Home
-<img width="1902" height="950" alt="Screenshot 2025-11-04 130453" src="<img width="1341" height="575" alt="Home" src="https://github.com/user-attachments/assets/5475f29e-726d-4f38-bdf2-c65514cbd2f6" />
+# Home
+<img width="1341" height="575" alt="Home" src="https://github.com/user-attachments/assets/931a72cd-eb85-48c3-aac1-1f4732c7945d" />
+
 " />
 
-home Register
-<img width="1894" height="948" alt="Screenshot 2025-11-04 130931" src="<img width="1362" height="600" alt="Halaman Register" src="https://github.com/user-attachments/assets/596ad424-044b-4b99-b0dd-85956b92da59" />
-" />
+# home Register
+<img width="1362" height="600" alt="Halaman Register" src="https://github.com/user-attachments/assets/b5d5419a-173b-4264-9279-22a5c1c401e8" />
 
-home Masuk
-<img width="1895" height="660" alt="Screenshot 2025-11-04 131050" src="<img width="1359" height="599" alt="Halaman Masuk" src="https://github.com/user-attachments/assets/2619d3ea-1a22-43d5-848a-c3b5563e5a5f" />
-" />
+
+# home Masuk
+<img width="1359" height="599" alt="Halaman Masuk" src="https://github.com/user-attachments/assets/6b6d282c-2775-4a9f-a91c-8a708c9a494b" />
+
 
 
 
 **HALAMAN USER**
 
-beranda user
-<img width="1917" height="947" alt="Screenshot 2025-11-04 212929" src="https://github.com/user-attachments/assets/d8850708-794e-4959-b65c-f6e569154edb" />
+# beranda user
+<img width="1346" height="592" alt="Beranda User" src="https://github.com/user-attachments/assets/505f39a0-2c3d-4546-b01a-f86fb851b558" />
 
-halaman layanan laundry
-<img width="1895" height="942" alt="Screenshot 2025-11-04 213357" src="https://github.com/user-attachments/assets/5cb2a2cf-a453-430f-9959-ce8db1d41e89" />
 
-halaman keranjang
-<img width="1917" height="822" alt="Screenshot 2025-11-04 213416" src="https://github.com/user-attachments/assets/d3550b6f-2335-434b-9922-445659d0e13d" />
+# halaman layanan Dealermotor
+<img width="1351" height="608" alt="Halaman Layanan dealermotor" src="https://github.com/user-attachments/assets/0fc16a32-da30-44be-8025-a10b698061e2" />
 
-halaman pesanan saya
-<img width="1919" height="825" alt="Screenshot 2025-11-04 213734" src="https://github.com/user-attachments/assets/04316834-8008-43e9-8458-47e2f34d32d5" />
 
-halaman profile  
-<img width="1919" height="711" alt="Screenshot 2025-11-04 213428" src="https://github.com/user-attachments/assets/ad51d0c9-3f23-458c-91c1-42a60c2cbb53" />
+# halaman keranjang
+<img width="1364" height="600" alt="Halaman Keranjang" src="https://github.com/user-attachments/assets/ee3bb883-934d-485c-8be9-fe63a1556c84" />
+
+
+# halaman pesanan user
+<img width="1359" height="597" alt="Pesanan User" src="https://github.com/user-attachments/assets/505b7eaa-7c88-4274-bba3-c312fa97f529" />
+
+
+# halaman profile  
+<img width="1355" height="597" alt="Profil" src="https://github.com/user-attachments/assets/dd85601b-0531-41ce-9823-921152b1bdf5" />
+
 
 
 
 
 **HALAMAN ADMIN**
 
-halaman dashbord
-<img width="1913" height="829" alt="Screenshot 2025-11-04 213958" src="https://github.com/user-attachments/assets/8fb77dc2-9d87-4b2a-a4e1-83fd9ca7e367" />
+# halaman dashbord
+<img width="1363" height="596" alt="Halaman Dashbord" src="https://github.com/user-attachments/assets/1f13a4b7-0133-4259-b72c-c2bfd6ab27da" />
 
-halaman layanan
-<img width="1919" height="826" alt="Screenshot 2025-11-04 214010" src="https://github.com/user-attachments/assets/b6bef282-db59-470d-ba8e-e79174448baf" />
+# halaman Produk
+<img width="1341" height="592" alt="Halaman Produk" src="https://github.com/user-attachments/assets/9346e7a5-85ce-41d6-9073-9762aee04fc1" />
 
-halaman pesanan
-  <img width="1913" height="828" alt="Screenshot 2025-11-04 214020" src="https://github.com/user-attachments/assets/95c9f4a2-7beb-4a1e-9985-2946d365f84c" />
 
-halaman kelola user
-<img width="1917" height="826" alt="Screenshot 2025-11-04 214034" src="https://github.com/user-attachments/assets/609cf794-b37b-4ce2-bad5-3e658b181eba" />
+
+# halaman pesanan
+<img width="1365" height="610" alt="Halaman Pesanan" src="https://github.com/user-attachments/assets/8437a826-8c33-43aa-a96b-6ba14c51dce0" />
+
+
+# halaman kelola user
+<img width="1360" height="596" alt="Halaman Kelola User" src="https://github.com/user-attachments/assets/af4ca453-9f9e-4087-a7ff-c5949a1eaf0d" />
+
