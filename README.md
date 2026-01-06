@@ -44,26 +44,6 @@ Dalam mata kuliah **Pemrograman Visual**, saya fokus pada:
 - **Pemrograman Aplikasi Grafis**: Menggunakan berbagai framework dan alat untuk membuat aplikasi dengan elemen grafis interaktif.
 - **Pengembangan Multimedia**: Menyusun elemen-elemen visual dan multimedia yang menyatu dalam aplikasi untuk meningkatkan pengalaman pengguna.
 
-## Keterampilan
-
-| **Keahlian**           | **Detail**                      |
-|------------------------|---------------------------------|
-| **Bahasa Pemrograman** | Python, JavaScript, HTML, CSS   |
-| **Framework**          | React, Bootstrap, Tkinter       |
-| **Alat Desain**        | balsamic                        |
-| **Database**           | MongoDB, MySQL                  |
-
-## Kontak
-
-Jika kamu ingin berdiskusi atau memiliki pertanyaan terkait proyek atau mata kuliah ini, jangan ragu untuk menghubungi saya melalui:
-- **Email**: [carloslouis9999@gmail.com]
-
----
-
-# MarshLaundryDb
-
-MarshLaundryDb adalah platform layanan laundry berbasis web yang menyediakan berbagai fitur untuk memudahkan pengelolaan laundry, baik bagi pelanggan maupun pengelola. Dengan sistem yang terintegrasi dan mudah digunakan, MarshLaundryDb membantu mempermudah proses pemesanan, pengelolaan laundry, dan pembayaran secara efektif.
-
 ## 1. Setting Web Service dan Configuration Web
 
 Untuk memulai penggunaan MarshLaundryDb, pastikan kamu telah melakukan konfigurasi web service dan pengaturan aplikasi dengan benar. Berikut adalah langkah-langkah konfigurasi yang perlu dilakukan:
