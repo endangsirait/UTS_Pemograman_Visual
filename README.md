@@ -237,3 +237,6 @@ Mengelola keseluruhan proyek, timeline, dan koordinasi antar tim. Mereka memasti
 # halaman kelola user
 <img width="1360" height="596" alt="Halaman Kelola User" src="https://github.com/user-attachments/assets/af4ca453-9f9e-4087-a7ff-c5949a1eaf0d" />
 
+# halaman Transaksi Penjualan
+<img width="1366" height="720" alt="Screenshot 2026-01-06 201722" src="https://github.com/user-attachments/assets/29d5ddc6-d9a3-4a6f-9746-896f0bf64882" />
+
