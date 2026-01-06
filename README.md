@@ -1,4 +1,4 @@
-ler## Informasi Pribadi
+## Informasi Pribadi
 
 | **Atribut**      | **Detail**               |
 |------------------|--------------------------|
