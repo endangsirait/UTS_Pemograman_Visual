@@ -100,13 +100,13 @@ Untuk memulai penggunaan Dealer Motor, pastikan kamu telah melakukan konfigurasi
 
 2. Nama Project dan Penjelasan Penggunaannya
 
-Nama Project: MarshLaundryDb
+Nama Project: DealerMotor
 
 Penjelasan:
 
 Dealer motor Honda merupakan salah satu unit usaha yang bergerak di bidang penjualan kendaraan roda dua serta pelayanan terkait, seperti pengelolaan data konsumen, stok motor, dan transaksi penjualan. Dalam praktiknya, proses pengelolaan data pada dealer sering kali masih dilakukan secara manual atau semi-komputerisasi, sehingga menimbulkan berbagai permasalahan seperti kesalahan pencatatan, keterlambatan pelayanan, serta kesulitan dalam penyusunan laporan penjualan.
 
-Alasan Menggunakan MarshLaundryDb:
+Alasan Menggunakan DealerMotor:
 
 Otomatisasi Proses: Mengurangi kesalahan manual dan meningkatkan efisiensi pengelolaan Dealermotor.
 
@@ -116,7 +116,7 @@ Laporan dan Analitik: Memungkinkan pengelola untuk menghasilkan laporan tentang 
 
 3. Bisnis Proses
 
-Proses bisnis dalam MarshLaundryDb meliputi beberapa tahapan penting sebagai berikut:
+Proses bisnis dalam Dealemotor meliputi beberapa tahapan penting sebagai berikut:
 
 3.1 Pelanggan Membuat Pesanan
 
